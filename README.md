@@ -2,7 +2,7 @@
 
 **UISA: User Information Separating Architecture for Commodity Recommendation Policy with Deep Reinforcement Learning**
 
-Journal paper (under review)
+_ACM Transactions on Recommender Systems_, 2024. [PDF](https://dl.acm.org/doi/10.1145/3654806)
 
 ## requirements
 python=3.6  
